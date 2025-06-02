@@ -8,10 +8,10 @@ I'm an iOS developer with a background in Audiovisual Communication, currently s
 
 <h1 align="center">Tech Stack</h1>
 <p align="center">
-  <img src="assets/swift.png" alt="Swift" width="120" />
-  <img src="assets/swiftui.png" alt="SwiftUI" width="120" />
-  <img src="assets/xcode.png" alt="Xcode" width="120" />
-  <img src="assets/git.png" alt="Git" width="120" />
-  <img src="assets/github.png" alt="GitHub" width="120" />
+  <img src="assets/swift.png" alt="Swift" width="100" />
+  <img src="assets/swiftui.png" alt="SwiftUI" width="100" />
+  <img src="assets/xcode.png" alt="Xcode" width="100" />
+  <img src="assets/git.png" alt="Git" width="100" />
+  <img src="assets/github.png" alt="GitHub" width="100" />
 </p>
 
