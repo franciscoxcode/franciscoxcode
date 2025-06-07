@@ -1,7 +1,8 @@
 # 😎 Hey, there!
 [![LinkedIn](https://badgen.net/badge/icon/LinkedIn?icon=linkedin&label&color=0A66C2)](https://www.linkedin.com/in/franciscoxcode)
-[![GitHub](https://badgen.net/badge/icon/GitHub?icon=github&label&color=181717)](https://www.github.com/franciscoxcode) 
 [![Email](https://badgen.net/badge/icon/Email?icon=mail&label&color=pink)](mailto:fxcasillas.dev@gmail.com)
+[![X](https://badgen.net/badge/icon/X?icon=twitter&label&color=000000)](https://x.com/franciscoxcode)
+
 
 👋 Welcome to my page!  
 I'm **Francisco**, an iOS developer from 🇲🇽 Mexico City with a background in Audiovisual Communication, currently studying Computer Systems Engineering.
