@@ -6,7 +6,7 @@
 Welcome to my page!  
 I'm Francisco, an iOS developer from 🇲🇽 Mexico City with a background in Audiovisual Communication, currently studying Computer Systems Engineering.
 
-**Check out my full portfolio here 👉 [Live site](https://portfolio-zeta-dun-44.vercel.app)**
+**Check out my full 💼 portfolio here 👉 [Live site](https://portfolio-zeta-dun-44.vercel.app)**
 
 ## Things I code with
 ![Swift](https://img.shields.io/badge/Swift-orange?style=flat&logo=swift&logoColor=white)
