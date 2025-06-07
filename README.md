@@ -1,17 +1,16 @@
-![Mi banner](assets/banner14.png)
+# 😎 Hey, there!
+[![LinkedIn](https://badgen.net/badge/icon/LinkedIn?icon=linkedin&label&color=0A66C2)](https://www.linkedin.com/in/franciscoxcode)
+[![GitHub](https://badgen.net/badge/icon/GitHub?icon=github&label&color=181717)](https://www.github.com/franciscoxcode) 
+[![Email](https://badgen.net/badge/icon/Email?icon=mail&label&color=pink)](mailto:fxcasillas.dev@gmail.com)
 
-<p align="center"><a href="https://www.linkedin.com/in/franciscoxcode/" target="_blank"><img src="assets/linkedin2.png" alt="LinkedIn" width="35" /></a>&nbsp;&nbsp;<a href="https://x.com/franciscoxcode" target="_blank"><img src="assets/x2.png" alt="X" width="35" /></a>&nbsp;&nbsp;<a href="mailto:fxcasillas.dev@gmail.com"><img src="assets/mail2.png" alt="Email" width="35" /></a></p>
+Welcome to my page!  
+I'm Francisco, an iOS developer from 🇲🇽 Mexico City with a background in Audiovisual Communication, currently studying Computer Systems Engineering.
 
-I'm an iOS developer with a background in Audiovisual Communication, currently studying Computer Systems Engineering. I enjoy building thoughtful, well-designed apps and exploring the intersection between technology and creativity. I'm actively looking for an internship to grow as a developer and contribute to a great team.
+**Check out my full portfolio here 👉 [Live site](https://portfolio-zeta-dun-44.vercel.app)**
 
----
-
-<h1 align="center">Tech Stack</h1>
-<p align="center">
-  <img src="assets/swift.png" alt="Swift" width="100" />
-  <img src="assets/swiftui.png" alt="SwiftUI" width="100" />
-  <img src="assets/xcode.png" alt="Xcode" width="100" />
-  <img src="assets/git.png" alt="Git" width="100" />
-  <img src="assets/github.png" alt="GitHub" width="100" />
-</p>
-
+## Things I code with
+![Swift](https://img.shields.io/badge/Swift-orange?style=flat&logo=swift&logoColor=white)
+[![SwiftUI](https://badgen.net/badge/icon/SwiftUI?icon=swift&label&color=cyan)](https://developer.apple.com/xcode/swiftui/)
+[![Xcode](https://badgen.net/badge/icon/Xcode?icon=xcode&label&color=green)](https://developer.apple.com/xcode/)
+[![Git](https://badgen.net/badge/icon/Git?icon=git&label&color=F05032)](https://git-scm.com/)
+[![GitHub](https://badgen.net/badge/icon/GitHub?icon=github&label&color=181717)](https://github.com/franciscoxcode)
