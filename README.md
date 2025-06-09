@@ -1,5 +1,5 @@
 
-![Banner](assets/franciscoemoji.jpg)
+![Banner](assets/franciscolinkedin2.jpg)
 [![LinkedIn](https://badgen.net/badge/icon/LinkedIn?icon=linkedin&label&color=0A66C2)](https://www.linkedin.com/in/franciscoxcode)
 [![Email](https://badgen.net/badge/icon/Email?icon=mail&label&color=pink)](mailto:fxcasillas.dev@gmail.com)
 [![X](https://badgen.net/badge/icon/X?icon=twitter&label&color=000000)](https://x.com/franciscoxcode)
