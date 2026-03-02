@@ -1,7 +1,7 @@
 # 😎 Hey, there!  
 
 👋 Welcome to my GitHub!  
-I'm **Francisco**, an iOS developer from 🇲🇽 Mexico City with a background in Audiovisual Communication. I'm currently studying Computer Systems Engineering, and **looking for an iOS internship**.
+I'm **Francisco**, an iOS developer from 🇲🇽 Mexico City with a background in Audiovisual Communication. I'm currently studying Computer Systems Engineering, and **looking for my first job in tech✱ .
 
 ## 🧑‍💻 Things I code with
 ![Swift](https://img.shields.io/badge/Swift-orange?style=flat&logo=swift&logoColor=white)
